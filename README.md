@@ -4,9 +4,13 @@
 
 #### By _**Kyle Lange and Stephen Newkirk**_
 
+#### See it live [HERE](https://kylelange.github.io/Roman-Numeral-Converter/).
+
 ## Description
 
 _This program asks users to enter a number into a field, converts the number into its equivalent in roman numerals and outputs the converted number to the ui._
+
+![screenshot](Screen Shot.png)
 
 ## Specifications
 _Return false if number is greater than 3,999._
@@ -35,23 +39,29 @@ _Add the functions for each number's place to a loop that converts the individua
 
 ## Setup/Installation Requirements
 
-* _Clone repository from Github_
-* _Open index.html in browser_
+1. Download this repo using your terminal: git clone repo-name pasted here
+
+2. View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
+
+3. run/check-out the program by dropping the index/html file from your folder into your web browser
 
 ## Known Bugs
 
-_None_
+_There are no known bugs as of the last commit. Please send an ISSUE on github in the repository if you see something I have not._
 
 ## Support and contact details
 
-_Contact creators by email if needed._
+For questions, concerns, or suggestions please email baronsintrees@gmail.com
+
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap, JavaScript, jQuery_
+* HTML5
+* CSS3
+* JavaScript with jQuery 3.1
 
 ### License
 
 *This program is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Kyle Langem, Stephen Newkirk_**
+Copyright (c) 2016 **_Kyle Lange, Stephen Newkirk_**
